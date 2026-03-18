@@ -1,3 +1,3 @@
-# How to
+# Hello!
 
 The Ultimate latest project start for the testing of readthedocs.
